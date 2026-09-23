@@ -1,0 +1,6 @@
+{
+  "name": "NeuroTrack AI",
+  "description": "AI-assisted concussion screening and baseline movement assessment for athletes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
